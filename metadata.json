@@ -1,0 +1,6 @@
+{
+  "name": "Kasir Resto - Point of Sale Restoran",
+  "description": "Aplikasi Kasir Restoran modern dengan katalog menu, manajemen pesanan meja, split bill, perhitungan kembalian, cetak struk, dan pencatatan transaksi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
